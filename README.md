@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedMahfouz
 - 👀 I’m interested in electrical engineering
-- 🌱 I’m currently learning differential equations, physics two, and BIT142 
+- 🌱 I’m currently learning BIT143
 - 💞️ I’m looking to collaborate on not sure
 - 📫 How to reach me discord and canvas
 
